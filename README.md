@@ -22,13 +22,13 @@ A Python script that extracts titles and video counts from YouTube playlists, us
    git clone 'https://github.com/viru023/YTplaylistScraper'
 
 
-2. Open the script and update the playlist_url variable to your desired YouTube playlist page URL. Example:
+2. Open the script and update the `playlist_url` variable to your desired YouTube playlist page URL. Example:
 
    ```python
     playlist_url = 'https://www.youtube.com/@username/playlists'
 
 
-3. Run the script to see the playlist titles and video counts in your terminal.
+3. Run the script to see the `playlist titles` and `video counts` in your terminal.
 
 ## Example Output
 
